@@ -63,6 +63,14 @@ select:
     -submit
     -reset
 
+ # tags de estrutura do HTML
+
+<html> primeira tag a pricipal
+
+<head> essa tag é responsavel pela configuração da pagina, ela seria a cabeça de tudo.
+    <title> é o titulo da pagina
+ 
+<bodd> essa tag é o corpo, responsavel pela toda area branca da pagina, aqui onde a magia acontece e todos verão.
 
 referencia de tags: W3Shools
 
